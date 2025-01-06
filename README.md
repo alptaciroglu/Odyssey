@@ -1,5 +1,9 @@
 # Odyssey
 
+https://diagnose.shinyapps.io/odyssey/
+
+Please check **Odyssey_Tutorial.pdf** to how to use Odyssey. 
+
 <h4 align="center"> Odyssey: a tool for microRNA-mRNA expression and interaction visualisation </h4>
 
 <p align="center">
