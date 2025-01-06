@@ -1,6 +1,5 @@
-![Logo](www/Logo.jpg)
-<p align="center">
-<sub>(Preview)</sub>
+<p align="right">
+  <img src="www/Logo.jpg" width="200">
 </p>
 
 # Odyssey
