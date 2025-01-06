@@ -1,10 +1,10 @@
-<p align="right">
-  <img src="www/Logo.jpg" width="200">
-</p>
-
 # Odyssey
 
 https://diagnose.shinyapps.io/odyssey/
+
+<p align="right">
+  <img src="www/Logo.jpg" width="100">
+</p>
 
 Please check **Odyssey_Tutorial.pdf** to how to use Odyssey. 
 
