@@ -1,6 +1,6 @@
 # Odyssey
-ODYSSEY: 
-<h4 align="center"> A tool for microRNA-mRNA expression and interaction visualisation </h4>
+
+<h4 align="center"> Odyssey: a tool for microRNA-mRNA expression and interaction visualisation </h4>
 
 <p align="center">
     <a href="https://github.com/alptaciroglu/Odyssey/commits/master">
